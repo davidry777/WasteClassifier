@@ -1,5 +1,5 @@
 # About
-Collaborators: Eliot Lee, Surahbi Tadvalkar, Rohit Manimaran for MLH RoseHack 2023 
+Collaborators: Eliot Lee, Surahbi Tadvalkar, Rohit Manimaran, David Ryan for MLH RoseHack 2023 
 
 Used Convolutional Neural Network to create an image classifier ML Model that we trained using a training dataset of 22,000+ images. Used Power BI to create a dashboard showcasing analysis of relevant metrics such as food type, retailer type, and dollar value of waste.
 
